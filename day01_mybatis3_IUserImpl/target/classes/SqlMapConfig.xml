@@ -29,6 +29,6 @@
     </mappers>
     -->
     <mappers>
-        <mapper class="com.xu.dao.IUserDao"/>
+        <mapper class="com.xu.dao.IUserDao"/><!-- 知道映射配置信息-->
     </mappers>
 </configuration>

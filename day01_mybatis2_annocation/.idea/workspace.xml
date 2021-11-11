@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b109bffe-f268-41e3-a553-d63d094c7fa2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/OneDay.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/OneDay.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/axis.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/java/com/xu/dao/IUserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/java/com/xu/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/resources/SqlMapConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/resources/com/xu/dao/IUserDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/test/java/com/xurong/test/MybatiesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/SqlMapConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/com/xu/dao/IUserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/com/xu/dao/IUserDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/com/xu/domain/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/test-classes/com/xurong/test/MybatiesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/axis.log" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_mybatis1_beginner/axis.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +83,7 @@
       <workItem from="1634949890274" duration="3422000" />
       <workItem from="1636592158474" duration="91000" />
       <workItem from="1636592508911" duration="263000" />
+      <workItem from="1636593470379" duration="115000" />
     </task>
     <servers />
   </component>

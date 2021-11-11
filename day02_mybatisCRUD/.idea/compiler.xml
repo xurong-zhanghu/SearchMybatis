@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="OneDay" />
-        <module name="day01_mybatis1_beginner" />
+        <module name="day02_mybatisCRUD" />
       </profile>
     </annotationProcessing>
   </component>
