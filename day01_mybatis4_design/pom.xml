@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>day01_annocation</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <packaging>jar</packaging><!--说明导入的是jar包-->
+    <dependencies>
+        <dependency><!--导入mybatis依赖-->
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>3.5.7</version>
+        </dependency>
+        <dependency><!--因为是对mysql操作，所以要导入mysql依赖-->
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.25</version>
+        </dependency>
+
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.12</version>
+            <scope>runtime</scope>
+        </dependency>
+
+        <dependency><!--日志-->
+            <groupId>com.att.inno</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.13</version>
+        </dependency>
+        <dependency><!--使用单元测试-->
+            <groupId>org.apache.isis.viewer</groupId>
+            <artifactId>junit</artifactId>
+            <version>0.2.0-incubating</version>
+        </dependency>
+
+
+        <!-- 由于解析配置文件不是我们自定义mybatis的主要目的，引入该依赖解析.xml文件-->
+        <dependency>
+            <groupId>dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+        <dependency>
+            <!-- Jaxen是一个Java编写的开源的XPath库。这是适应多种不同的对象模型，包括DOM， XOM，dom4j和 JDOM。-->
+            <groupId>jaxen</groupId>
+            <artifactId>jaxen</artifactId>
+            <version>1.1.6</version>
+        </dependency>
+    </dependencies>
+
+
+</project>
