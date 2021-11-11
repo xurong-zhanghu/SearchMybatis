@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>day01_mybatis3_IUserImpl</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging><!--说明导入的是jar包-->
+    <dependencies>
+        <dependency><!--导入mybatis依赖-->
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>3.5.7</version>
+        </dependency>
+        <dependency><!--因为是对mysql操作，所以要导入mysql依赖-->
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.25</version>
+        </dependency>
+        <dependency><!--日志-->
+            <groupId>com.att.inno</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.13</version>
+        </dependency>
+        <dependency><!--使用单元测试-->
+            <groupId>org.apache.isis.viewer</groupId>
+            <artifactId>junit</artifactId>
+            <version>0.2.0-incubating</version>
+        </dependency>
+    </dependencies>
+
+</project>

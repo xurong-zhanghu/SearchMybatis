@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+ <mapper namespace="com.xu.dao.IUserDao"><!-- 写的是resources下的全限定类名-->
+    <!-- 配置查询所有-->
+    <select id="findAll" resultType="com.xu.domain.User"><!-- 一定是用户持久层接口中定义的方法名,resultType
+    功能：将select * from user查询到的结果返回到com.xurong.domain.User，让后User对象存到List集合中-->
+        select * from user
+    </select>
+
+</mapper>
