@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b109bffe-f268-41e3-a553-d63d094c7fa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/OneDay.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/OneDay.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/axis.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/java/com/xu/dao/IUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/java/com/xu/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/resources/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/resources/com/xu/dao/IUserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/src/test/java/com/xurong/test/MybatiesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/com/xu/dao/IUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/com/xu/dao/IUserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/com/xu/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_mybatis1_beginner/target/test-classes/com/xurong/test/MybatiesTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Java\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zlJTdmIyBpc2n8jk1XIniOuYnG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xu.dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MybatiesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xurong.test.MybatiesTest" />
+      <module name="day01_annocation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xurong.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatiesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b109bffe-f268-41e3-a553-d63d094c7fa2" name="Default Changelist" comment="" />
+      <created>1634716749203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634716749203</updated>
+      <workItem from="1634716752093" duration="1000" />
+      <workItem from="1634716911519" duration="645000" />
+      <workItem from="1634717574149" duration="2359000" />
+      <workItem from="1634949890274" duration="3422000" />
+      <workItem from="1636592158474" duration="91000" />
+      <workItem from="1636592508911" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="221" key="FileChooserDialogImpl" timestamp="1634952548546">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="614" y="221" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1634952548546" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1636592773525">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1636592773525" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1634719974339" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1636592773525">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1636592773525" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1634719974338" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1636592773524">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1636592773524" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1634719974338" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1636592773525">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1636592773525" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1634719974339" />
+    <state x="299" y="75" key="Maven.ArtifactSearchDialog" timestamp="1634717955861">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="299" y="75" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1634717955861" />
+    <state x="272" y="62" key="SettingsEditor" timestamp="1634717425357">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1634717425357" />
+    <state x="461" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1634949895891">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="461" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1634949895891" />
+    <state x="178" y="125" key="new project wizard" timestamp="1634952554085">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="125" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1634952554085" />
+  </component>
+</project>
