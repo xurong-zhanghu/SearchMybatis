@@ -38,7 +38,7 @@ e
      用来保存用户,也就是插入用户
      -->
     <insert id="saveUser" parameterType="com.xurong.domain.User">
-        <selectKey keyProperty="id" keyColumn="id" resultType="java.lang.Integer" order="AFTER">
+        <selectKey keyProperty="userId" keyColumn="id" resultType="java.lang.Integer" order="AFTER">
             select last_insert_id();
         </selectKey>
         insert into user(username, address, sex, birthday) values (#{userName},#{userAddress},#{userSex},#{userBirthday});
